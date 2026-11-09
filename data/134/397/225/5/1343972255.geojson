@@ -79,7 +79,7 @@
         102191573,
         85632365,
         85676997,
-        421187965
+        421199619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +99,7 @@
     "wof:id":1343972255,
     "wof:lastmodified":1566648065,
     "wof:name":"Leclerc",
-    "wof:parent_id":421187965,
+    "wof:parent_id":421199619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sn",
     "wof:superseded_by":[],
